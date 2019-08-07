@@ -9,3 +9,5 @@ class Dog
 end
 
 cujo = Dog.new
+cujo.bark
+cujo.sit
