@@ -7,3 +7,4 @@ class Person
     puts "The person is walking"
   end
 end
+
