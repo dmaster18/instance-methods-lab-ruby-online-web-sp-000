@@ -9,3 +9,5 @@ class Person
 end
 
 steve_jobs = Person.new
+steve_jobs.talk
+steve_jobs.walk
