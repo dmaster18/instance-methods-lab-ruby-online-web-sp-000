@@ -8,3 +8,4 @@ class Person
   end
 end
 
+steve_jobs = Person.new
